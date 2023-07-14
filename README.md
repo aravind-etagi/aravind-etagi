@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind-etagi&show_icons=true&hide_border=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aravind-etagi&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br/>
-![Profile views](https://gpvc.arturio.dev/aravind-etagi)  <img src="https://img.shields.io/github/followers/aravind-etagi?label=Follow" style=" float:left, margin-right:10px" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind-etagi&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-etagi" />
 
 
 ---
